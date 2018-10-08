@@ -1,4 +1,4 @@
-# OpenCV vidéo détections
+# Comparaison de vidéo avec OpenCV
 
 Afin de comparer plusieurs vidéos et d’identifier si elles ont la même origine, il est nécessaire de trouver des similarités. Les vidéos comparer peuvent être modifiées ou coupé, c’est pour cela que comparer plusieurs vidéo s’avèrent être une tache compliquée. 
 
