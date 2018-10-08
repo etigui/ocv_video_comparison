@@ -26,7 +26,6 @@ Après avoir défini la manière dont nous allions effectuer le traitement des v
 - Autres méthodes
 
 ## Rapport
-
-[Lien](/doc/cpw_projet_zeller_guignard.pdf)
+Pour plus d‘informations [Lien](/doc/cpw_projet_zeller_guignard.pdf)
 
 
