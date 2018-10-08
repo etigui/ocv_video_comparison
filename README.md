@@ -27,6 +27,6 @@ Après avoir défini la manière dont nous allions effectuer le traitement des v
 
 ## Rapport
 
-[Lien](\doc\cpw_projet_zeller_guignard.pdf)
+[Lien](/doc/cpw_projet_zeller_guignard.pdf)
 
 
