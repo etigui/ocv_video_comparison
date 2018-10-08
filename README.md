@@ -24,3 +24,9 @@ Après avoir défini la manière dont nous allions effectuer le traitement des v
 - Reconnaissance faciale et de personne
 - Histogramme
 - Autres méthodes
+
+## Rapport
+
+[Lien](\doc\cpw_projet_zeller_guignard.pdf)
+
+
